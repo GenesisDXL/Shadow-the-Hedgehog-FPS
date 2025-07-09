@@ -1,2 +1,2 @@
 # Shadow-the-Hedgehog-FPS
-A fan made first person shooter remake of the controversial 2005 SEGA video game, Shadow the Hedgehog.
+Shadow the Hedgehog: FPS is a Sonic fangame created by American YouTuber GenesisDX. It aims to remake Sonic Team's controversial 2005 Shadow the Hedgehog video game into a First Person Shooter. GenesisDX is in no way affiliated with SEGA or Sonic Team in the making of this project. All assets, music, and voice clips used belong to SEGA and Sonic Team respectively. This fangame is unlicensed and forbidden from being distributed for monetary gain and therefore must remain free.
