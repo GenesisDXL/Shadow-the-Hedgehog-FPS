@@ -5,4 +5,4 @@ If you wish to download this project or any of its versions, please click RELEAS
 
 ![shadowFPSsplashscreen](https://github.com/user-attachments/assets/c6abfafc-e641-4bc8-a106-4b2b1a98bb9c)
 
-Shadow the Hedgehog is created by GenesisDX in GODOT 4.4.2
+Shadow the Hedgehog: FPS created by GenesisDX in GODOT 4.4.2
